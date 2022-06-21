@@ -1,0 +1,9 @@
+print('usman nasir single quote')
+print("double quote")
+print('''triple quote''')
+
+
+print("What's up")
+print('''I am usman nasir
+iam from Charsadda
+studying currently BS computer science''') #to print as it as you typed
